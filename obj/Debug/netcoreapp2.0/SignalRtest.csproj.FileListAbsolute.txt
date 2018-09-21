@@ -1,0 +1,8 @@
+C:\Users\sharonw\Documents\Visual Studio 2017\Projects\SignalRtest\SignalRtest\bin\Debug\netcoreapp2.0\SignalRtest.deps.json
+C:\Users\sharonw\Documents\Visual Studio 2017\Projects\SignalRtest\SignalRtest\bin\Debug\netcoreapp2.0\SignalRtest.runtimeconfig.json
+C:\Users\sharonw\Documents\Visual Studio 2017\Projects\SignalRtest\SignalRtest\bin\Debug\netcoreapp2.0\SignalRtest.runtimeconfig.dev.json
+C:\Users\sharonw\Documents\Visual Studio 2017\Projects\SignalRtest\SignalRtest\bin\Debug\netcoreapp2.0\SignalRtest.dll
+C:\Users\sharonw\Documents\Visual Studio 2017\Projects\SignalRtest\SignalRtest\obj\Debug\netcoreapp2.0\SignalRtest.csprojAssemblyReference.cache
+C:\Users\sharonw\Documents\Visual Studio 2017\Projects\SignalRtest\SignalRtest\obj\Debug\netcoreapp2.0\SignalRtest.csproj.CoreCompileInputs.cache
+C:\Users\sharonw\Documents\Visual Studio 2017\Projects\SignalRtest\SignalRtest\obj\Debug\netcoreapp2.0\SignalRtest.AssemblyInfoInputs.cache
+C:\Users\sharonw\Documents\Visual Studio 2017\Projects\SignalRtest\SignalRtest\obj\Debug\netcoreapp2.0\SignalRtest.AssemblyInfo.cs
